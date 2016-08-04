@@ -643,3 +643,29 @@ footer {
 	margin: 0 auto 200px;
 	overflow:hidden;
 }
+
+
+
+.conversations {
+	background:white;
+	margin-left:2em;
+	display:flex;
+	border: solid 1px gray;
+
+}
+
+
+#con1 {
+	border: solid 1px black;
+
+}
+
+#con2 {
+	border: solid 1px black;
+
+}
+
+#con3 {
+	border: solid 1px black;
+
+}
