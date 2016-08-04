@@ -650,7 +650,6 @@ footer {
 	background:white;
 	margin-left:2em;
 	display:flex;
-	flex-direction:column;
 	border: solid 1px gray;
 
 }
@@ -660,6 +659,7 @@ footer {
 	flex:1;
 	flex-direction:column;
 	border: solid 1px black;
+	background: orange;
 
 }
 
@@ -667,6 +667,7 @@ footer {
 	flex:1;
 	flex-direction:column;
 	border: solid 1px black;
+	background:red;
 
 }
 
@@ -674,5 +675,6 @@ footer {
 	flex:1;
 	flex-direction:1;
 	border: solid 1px black;
+	background: silver;
 
 }
