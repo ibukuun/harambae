@@ -657,16 +657,22 @@ footer {
 
 
 #con1 {
+	flex:1;
+	flex-direction:column;
 	border: solid 1px black;
 
 }
 
 #con2 {
+	flex:1;
+	flex-direction:column;
 	border: solid 1px black;
 
 }
 
 #con3 {
+	flex:1;
+	flex-direction:1;
 	border: solid 1px black;
 
 }
