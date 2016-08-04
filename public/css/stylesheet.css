@@ -666,6 +666,7 @@ footer {
 	background: orange;
 	width:400px;
 	height:200px;
+	margin: 5px;
 }
 
 #con2 {
@@ -674,6 +675,7 @@ footer {
 	background:red;
 	width:400px;
 	height:200px;
+	margin:5px;
 }
 
 #con3 {
@@ -683,4 +685,5 @@ footer {
 	background: silver;
 	width: 400px;
 	height:200px;
+	margin:5px;
 }
