@@ -664,14 +664,14 @@ footer {
 	
 	border: solid 1px black;
 	background: orange;
-
+	width:200px;
 }
 
 #con2 {
 	
 	border: solid 1px black;
 	background:red;
-
+	width:200px;
 }
 
 #con3 {
@@ -679,5 +679,5 @@ footer {
 	
 	border: solid 1px black;
 	background: silver;
-
+	width: 200px;
 }
