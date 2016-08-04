@@ -654,7 +654,6 @@ footer {
 .conversations {
 	width:400px;
 	margin-left:2em;
-	
 	border: solid 1px gray;
 
 }
@@ -665,8 +664,11 @@ footer {
 	border: solid 1px black;
 	background: orange;
 	width:400px;
-	height:200px;
+	height:100px;
 	margin: 5px;
+	position:absolute;
+	top:200px;
+	left:10px;
 }
 
 #con2 {
@@ -674,8 +676,11 @@ footer {
 	border: solid 1px black;
 	background:red;
 	width:400px;
-	height:200px;
+	height:100px;
 	margin:5px;
+	position:absolute;
+	top:200px;
+	left:10px;
 }
 
 #con3 {
@@ -684,6 +689,9 @@ footer {
 	border: solid 1px black;
 	background: silver;
 	width: 400px;
-	height:200px;
+	height:100px;
 	margin:5px;
+	position:absolute;
+	top:200px;
+	left:10px;
 }
