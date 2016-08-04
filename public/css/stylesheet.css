@@ -649,31 +649,29 @@ footer {
 .conversations {
 	background:white;
 	margin-left:2em;
-	display:flex;
+	
 	border: solid 1px gray;
 
 }
 
 
 #con1 {
-	flex:1;
-	flex-direction:column;
+	display:flex;
 	border: solid 1px black;
 	background: orange;
 
 }
 
 #con2 {
-	flex:1;
-	flex-direction:column;
+	display:flex;
 	border: solid 1px black;
 	background:red;
 
 }
 
 #con3 {
-	flex:1;
-	flex-direction:1;
+	display:flex
+	
 	border: solid 1px black;
 	background: silver;
 
