@@ -656,21 +656,21 @@ footer {
 
 
 #con1 {
-	display:flex;
+	
 	border: solid 1px black;
 	background: orange;
 
 }
 
 #con2 {
-	display:flex;
+	
 	border: solid 1px black;
 	background:red;
 
 }
 
 #con3 {
-	display:flex
+	
 	
 	border: solid 1px black;
 	background: silver;
